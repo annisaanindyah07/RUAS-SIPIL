@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+output_result_*
+*.webm
+*.mp4
+*.zip
